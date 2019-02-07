@@ -4,7 +4,6 @@ node_modules
 *.swp
 .tmp
 .cache
-/parser/chatito.js
 /public/**/*
 !/public/andorid-chrome-192x192.png
 !/public/andorid-chrome-512x512.png
